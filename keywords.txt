@@ -5,12 +5,13 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
+CMMC_Interval       KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-begin 					KEYWORD2
+every_ms 					KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
@@ -18,8 +19,4 @@ begin 					KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
-#######################################
-
-MODE_BOTH             LITERAL1
-MODE_PUB_ONLY         LITERAL1
-MODE_PUB_ONLY         LITERAL1
+####################################### 
