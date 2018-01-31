@@ -5,7 +5,7 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-CMMC_Interval       KEYWORD1
+CMMC_Interval	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
